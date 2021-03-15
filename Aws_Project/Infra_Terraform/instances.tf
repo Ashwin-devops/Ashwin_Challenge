@@ -30,7 +30,7 @@ sudo apt upgrade -y
 sudo apt install -y maven
 sudo apt install -y git-all
 git  clone https://github.com/Ashwin-devops/Ashwin_Challenge.git
-cd   Aws_Project/Application_Code/
+cd   Ashwin_Challenge/Aws_Project/Application_Code/
 mvn clean package
 sudo apt install -y docker-compose
 docker-compose up
