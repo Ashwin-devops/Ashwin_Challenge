@@ -1,5 +1,5 @@
 import re as r
-//Please run this python code using python version - 3 or above
+#Please run this python code using python version - 3 or above
 class ValidateCardService:
 
 	def __init__(self):
